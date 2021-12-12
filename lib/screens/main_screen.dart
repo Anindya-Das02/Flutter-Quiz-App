@@ -13,7 +13,7 @@ class MainScreen extends StatefulWidget {
 class _MainScreenState extends State<MainScreen> {
   int _index = 0;
   int _score = 0;
-  final int _totalQuestions = QuestionAnswerManager.totalQuestionsCount;
+  final int _totalQuestions = 10;
 
   _incrementQuestionIndexCallBack(_choice) {
     setState(() {

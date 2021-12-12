@@ -11,7 +11,7 @@ class QuestionDisplayWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       margin: const EdgeInsets.all(5.0),
-      height: 120.0,
+      height: 130.0,
       width: double.infinity,
       child: Card(
         elevation: 5.0,

@@ -11,7 +11,6 @@ class QuestionAnswerManager {
 
   static void updateQuestionAnswerList() {
     _questionAnswerList.shuffle();
-    _questionAnswerList.shuffle();
   }
 
   static bool checkAnswer(int index, bool choice) {
