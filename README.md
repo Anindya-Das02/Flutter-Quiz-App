@@ -1,16 +1,7 @@
 # quiz_app_2
+A simple True or False Quiz app build using flutter & dart.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Screenshots
+<img src="https://i.ibb.co/6Nz47pw/Screenshot-20211212-174446.jpg" height="500" />
+<img src="https://i.ibb.co/k0yZ10v/Screenshot-20211212-174507.jpg" height="500" />
+<img src="https://i.ibb.co/JsK1qPV/Screenshot-20211212-174521.jpg" height="500" />
